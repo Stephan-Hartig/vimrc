@@ -182,9 +182,3 @@ nnoremap <leader>q :NERDTreeFocus<CR>
 nnoremap <leader>w :NERDTreeFind<CR>
 nnoremap <leader>[ :NERDTreeToggle<CR>
 
-
-
-
-
-
-"endfile
